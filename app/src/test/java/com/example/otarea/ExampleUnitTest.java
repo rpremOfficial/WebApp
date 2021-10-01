@@ -1,4 +1,4 @@
-package com.example.otareaeducore;
+package com.example.otarea;
 
 import org.junit.Test;
 
